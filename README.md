@@ -83,4 +83,4 @@ A few other projects never did get initialized as Github repositories, maybe som
 
 ### My Github stats
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRDOrazio)](https://github.com/JohnRDOrazio/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRDOrazio&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/JohnRDOrazio/github-readme-stats)
