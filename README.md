@@ -19,6 +19,7 @@ Frameworks and libraries I use:
  - ReactJS
  - Google Apps Script
  - Ruby on Rails (started my first hands on project in 2021)
+ - Bootstrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRDOrazio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
