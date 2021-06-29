@@ -4,7 +4,7 @@ My name is 🧔 John Romano D'Orazio.
 
 I'm a ✝️ Catholic priest.
 
-I enjoy 💻 coding, a hobby which I started when I was a little kid. Languages I have learned:
+I enjoy 📷 photography, I enjoy activities such as ⛷️ skiing, and I enjoy 💻 coding, a hobby which I started when I was a little kid. Languages I have learned:
  - GW-BASIC
  - PHP
  - Webstack (HTML, Javascript, CSS)
