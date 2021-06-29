@@ -20,6 +20,16 @@ Frameworks and libraries I use:
 
 I believe that programming can also be done in a 🤝 community spirit!
 
+### My websites
+
+A few of the websites I have created, mostly with WordPress:
+1) https://www.johnromanodorazio.com (Personal website / blog)
+2) https://www.bibleget.io (BibleGet project)
+3) https://www.premiovittoriobachelet.eu (National Photography contest I organized one year in Italy)
+4) https://www.cappellaniauniroma3.org (Chaplaincy website at Roma Tre University)
+5) https://www.johnromanodorazio.com/LiturgicalCalendar (kudos to @mftruso for helping with the bootstrap theme!)
+6) https://geographyofthefaith.bibleget.io (Work in Progress)
+
 ### My projects
 
 #### 1) 📖 BibleGet Project ⛪
@@ -43,7 +53,10 @@ Together with the fellow programmers in this community, we have started working 
 
  - 📖 https://github.com/opensourcecatholic/marriage-booklet
 
-#### 4) 🎲 Random projects
+#### 4) 🚶 Pilgrimage Office projects
+Seeing as I'm currently stationed in the Diocesan Pilgrimage Office, I have devoted some attention to projects having to do with pilgrimage as a human and religious experience.
+
+#### 5) 🎲 Random projects
 Some of my first projects, as I was learning Javascript and jQuery, were jQuery plugins.
  - 🕑 [jQuery Clock](https://github.com/JohnRDOrazio/jQuery-Clock-Plugin) => this is actually my most starred and forked project!
 
