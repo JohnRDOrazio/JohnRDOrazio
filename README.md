@@ -4,19 +4,23 @@ My name is 🧔 John Romano D'Orazio.
 
 I'm a ✝️ Catholic priest.
 
-I enjoy 💻 coding, a hobby which I started when I was a little kid. My languages:
+I enjoy 💻 coding, a hobby which I started when I was a little kid. Languages I have learned:
+ - GW-BASIC
  - PHP
  - Webstack (HTML, Javascript, CSS)
  - JAVA
  - .NET
  - a bit of C++ (for programming microcontrollers)
  - Arduino
+ - Processing
 
 Frameworks and libraries I use:
  - jQuery
  - ReactJS
  - Google Apps Script
  - Ruby on Rails (started my first hands on project in 2021)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRDOrazio)](https://github.com/JohnRDOrazio/github-readme-stats)
 
 I believe that programming can also be done in a 🤝 community spirit!
 
