@@ -22,7 +22,7 @@ I believe that programming can also be done in a 🤝 community spirit!
 
 ### My projects
 
-#### 📖 BibleGet Project ⛪
+#### 1) 📖 BibleGet Project ⛪
 Aims to facilitate inserting Bible quotes into documents or websites.
 
  - 🎯 API : [BibleGet-I-O/endpoint](https://github.com/BibleGet-I-O/endpoint)
@@ -32,18 +32,18 @@ Aims to facilitate inserting Bible quotes into documents or websites.
  - ↪️ LibreOffice add-on : [BibleGet-I-O/bibleget-libreoffice](https://github.com/BibleGet-I-O/bibleget-libreoffice)
  - ↪️ WordPress add-on : [BibleGet-I-O/bibleget-wordpress](https://github.com/BibleGet-I-O/bibleget-wordpress)
 
-#### 🗓️ Liturgical Calendar Project ⛪
+#### 2) 🗓️ Liturgical Calendar Project ⛪
 An API with the data for the liturgical calendar, saint of the day, etc.
 
  - 🎯 API : [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
 
-#### 💍 Marriage Booklet Project 💒
+#### 3) 💍 Marriage Booklet Project 💒
 I have been participating lately in the [OpenSourceCatholic](https://github.com/opensourcecatholic) community.
 Together with the fellow programmers in this community, we have started working on a project together, which can be useful for couples preparing to get married.
 
  - 📖 https://github.com/opensourcecatholic/marriage-booklet
 
-#### 🎲 Random projects
+#### 4) 🎲 Random projects
 Some of my first projects, as I was learning Javascript and jQuery, were jQuery plugins.
  - 🕑 [jQuery Clock](https://github.com/JohnRDOrazio/jQuery-Clock-Plugin) => this is actually my most starred and forked project!
 
