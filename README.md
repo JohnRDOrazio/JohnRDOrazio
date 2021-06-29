@@ -8,6 +8,7 @@ I enjoy 💻 coding, a hobby which I started when I was a little kid. My languag
  - PHP
  - Webstack (HTML, Javascript, CSS)
  - JAVA
+ - .NET
  - a bit of C++ (for programming microcontrollers)
  - Arduino
 
