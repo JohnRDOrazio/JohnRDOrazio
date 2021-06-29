@@ -20,7 +20,7 @@ Frameworks and libraries I use:
  - Google Apps Script
  - Ruby on Rails (started my first hands on project in 2021)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRDOrazio)](https://github.com/JohnRDOrazio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRDOrazio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I believe that programming can also be done in a 🤝 community spirit!
 
@@ -87,4 +87,4 @@ A few other projects never did get initialized as Github repositories, maybe som
 
 ### My Github stats
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRDOrazio&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/JohnRDOrazio/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRDOrazio&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
