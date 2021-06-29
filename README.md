@@ -1,16 +1,72 @@
-### Hi there 👋
+### Who am I
 
-<!--
-**JohnRDOrazio/JohnRDOrazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is 🧔 John Romano D'Orazio. 
 
-Here are some ideas to get you started:
+I'm a ✝️ Catholic priest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy 💻 coding, a hobby which I started when I was a little kid. My languages:
+ - PHP
+ - Webstack (HTML, Javascript, CSS)
+ - JAVA
+ - a bit of C++ (for programming microcontrollers)
+ - Arduino
+
+Frameworks and libraries I use:
+ - jQuery
+ - ReactJS
+ - Google Apps Script
+ - Ruby on Rails (started my first hands on project in 2021)
+
+I believe that programming can also be done in a 🤝 community spirit!
+
+### My projects
+
+#### 📖 BibleGet Project ⛪
+Aims to facilitate inserting Bible quotes into documents or websites.
+
+ - 🎯 API : [BibleGet-I-O/endpoint](https://github.com/BibleGet-I-O/endpoint)
+ - ↪️ Microsoft Word 2013+ VSTO add-on : [BibleGet-I-O/bibleget-msword-addin](https://github.com/BibleGet-I-O/bibleget-msword-addin)
+ - ↪️ Google Docs add-on : [BibleGet-I-O/BibleGet-Google-Docs-Addin](https://github.com/BibleGet-I-O/BibleGet-Google-Docs-Addin)
+ - ↪️ Apache OpenOffice add-on : [BibleGet-I-O/bibleget-openoffice](https://github.com/BibleGet-I-O/bibleget-openoffice)
+ - ↪️ LibreOffice add-on : [BibleGet-I-O/bibleget-libreoffice](https://github.com/BibleGet-I-O/bibleget-libreoffice)
+ - ↪️ WordPress add-on : [BibleGet-I-O/bibleget-wordpress](https://github.com/BibleGet-I-O/bibleget-wordpress)
+
+#### 🗓️ Liturgical Calendar Project ⛪
+An API with the data for the liturgical calendar, saint of the day, etc.
+
+ - 🎯 API : [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
+
+#### 💍 Marriage Booklet Project 💒
+I have been participating lately in the [OpenSourceCatholic](https://github.com/opensourcecatholic) community.
+Together with the fellow programmers in this community, we have started working on a project together, which can be useful for couples preparing to get married.
+
+ - 📖 https://github.com/opensourcecatholic/marriage-booklet
+
+#### 🎲 Random projects
+Some of my first projects, as I was learning Javascript and jQuery, were jQuery plugins.
+ - 🕑 [jQuery Clock](https://github.com/JohnRDOrazio/jQuery-Clock-Plugin) => this is actually my most starred and forked project!
+
+Unfortunately another plugin or two that I had written went missing.
+I had published them on the jQuery plugins repository, but at one point there was a glitch in the repository which wiped out all the plugins.
+I had just barely started using Github, and I didn't yet have repositories for these plugins, and I never did wind up trying to recover them.
+One plugin allowed you to **click-n-drag** across a group of checkboxes, or **shift-click** a range of checkboxes,
+in order to easily check multiple checkboxes without having to click on them one by one.
+
+I also enjoy working with microcontrollers such as Arduino, which brought me to learn some Processing.
+I haven't made repositories for all of my Arduino / Processing projects yet, perhaps I should, but here are some:
+
+ - 🥧 [Pythagoras Pie](https://github.com/JohnRDOrazio/pythagoraspie) (Processing)
+ - 🔺 [Pascal Triangle](https://github.com/JohnRDOrazio/pascaltriangle) (Processing)
+
+While I was a chaplain at Roma Tre University, I participated in the student [Microcontrollers Users Group (MUG)](https://github.com/mugroma3).
+Here are some of the projects I created while participating in the MUG:
+
+ - 🕰️ [SmartClockGps](https://github.com/mugroma3/SmartClockGps) : I never did complete the project. I was able to get the atomic timestamp from a GPS module, and display a time string on an LCD display. However I wanted to add a [Real Time Clock component](https://en.wikipedia.org/wiki/Real-time_clock) to the project, and I did create the circuitry, but I never finished re-writing the code.
+ - 📶 [HC05_Automate_Communication](https://github.com/mugroma3/HC05_Automate_Communication) - an attempt to create helper functions for working with a bluetooth module
+ - 📶 [HC05_Manual_AT_Mode](https://github.com/mugroma3/HC05_Manual_AT_Mode) - an attempt to create helper functions for working with a bluetooth module
+
+A few other projects never did get initialized as Github repositories, maybe someday I'll get back around to it 😄
+
+### My Github stats
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRDOrazio)](https://github.com/JohnRDOrazio/github-readme-stats)
