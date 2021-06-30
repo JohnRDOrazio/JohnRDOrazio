@@ -4,22 +4,17 @@ My name is 🧔 John Romano D'Orazio.
 
 I'm a ✝️ Catholic priest.
 
-I enjoy 📷 photography, I enjoy activities such as ⛷️ skiing, and I enjoy 💻 coding, a hobby which I started when I was a little kid. Languages I have learned:
- - GW-BASIC
- - PHP
- - Webstack (HTML, Javascript, CSS)
- - JAVA
- - .NET
- - a bit of C++ (for programming microcontrollers)
- - Arduino
- - Processing
+I enjoy 📷 photography, I enjoy activities such as ⛷️ skiing, and I enjoy 💻 coding, a hobby which I started when I was a little kid.
+
+Languages I have learned:
+| GW-BASIC | PHP | HTML | JAVA | .NET | C++ | ARDUINO | PROCESSING |
+|:--------:|:---:|:----:|:----:|:----:|:---:|:-------:|:----------:|
+||<img src="https://simpleicons.org/icons/php.svg" height="50" />|<img src="https://simpleicons.org/icons/html5.svg" height="50" />|<img src="https://simpleicons.org/icons/java.svg" height="50" />|<img src="https://simpleicons.org/icons/dotnet.svg" height="50" />|<img src="https://simpleicons.org/icons/cplusplus.svg" height="50" />|<img src="https://simpleicons.org/icons/arduino.svg" height="50" />|<img src="https://simpleicons.org/icons/processingfoundation.svg" height="50" />|
 
 Frameworks and libraries I use:
- - jQuery
- - ReactJS
- - Google Apps Script
- - Ruby on Rails (started my first hands on project in 2021)
- - Bootstrap
+| jQuery | ReactJS | Google Apps Script | Ruby on Rails | Bootstrap |
+|:------:|:-------:|:------------------:|:-------------:|:---------:|
+|<img src="https://simpleicons.org/icons/jquery.svg" height="50" />|<img src="https://simpleicons.org/icons/react.svg" height="50" />|<img src="https://simpleicons.org/icons/google.svg" height="50" />|<img src="https://simpleicons.org/icons/rubyonrails.svg" height="50" />|<img src="https://simpleicons.org/icons/bootstrap.svg" height="50" />|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRDOrazio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,6 +29,11 @@ A few of the websites I have created, mostly with WordPress:
 4) https://www.cappellaniauniroma3.org (Chaplaincy website at Roma Tre University)
 5) https://www.johnromanodorazio.com/LiturgicalCalendar (kudos to @mftruso for helping with the bootstrap theme!)
 6) https://geographyofthefaith.bibleget.io (Work in Progress)
+
+I run these websites using:
+| APACHE | NGINX | PHP | FPM | DJANGO | UWSGI | RUBY |
+|:------:|:-----:|:---:|:---:|:------:|:-----:|:----:|
+|<img src="https://simpleicons.org/icons/apache.svg" height="50" />|<img src="https://simpleicons.org/icons/nginx.svg" height="50" />|<img src="https://simpleicons.org/icons/php.svg" height="50" />| |<img src="https://simpleicons.org/icons/django.svg" height="50" />| |<img src="https://simpleicons.org/icons/ruby.svg" height="50" />
 
 ### My projects
 
