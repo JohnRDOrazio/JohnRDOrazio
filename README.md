@@ -16,7 +16,7 @@ Frameworks and libraries I use:
 |:------:|:-------:|:------------------:|:-------------:|:---------:|
 |<img src="https://simpleicons.org/icons/jquery.svg" height="50" />|<img src="https://simpleicons.org/icons/react.svg" height="50" />|<img src="https://simpleicons.org/icons/google.svg" height="50" />|<img src="https://simpleicons.org/icons/rubyonrails.svg" height="50" />|<img src="https://simpleicons.org/icons/bootstrap.svg" height="50" />|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRDOrazio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JohnRDOrazio&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 I believe that programming can also be done in a 🤝 community spirit!
 
