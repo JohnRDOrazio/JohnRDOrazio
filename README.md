@@ -7,9 +7,9 @@ I'm a ✝️ Catholic priest.
 I enjoy 📷 photography, I enjoy activities such as ⛷️ skiing, and I enjoy 💻 coding, a hobby which I started when I was a little kid.
 
 Languages I have learned:
-| GW-BASIC | PHP | HTML | JAVA | .NET | C++ | ARDUINO | PROCESSING |
-|:--------:|:---:|:----:|:----:|:----:|:---:|:-------:|:----------:|
-||<img src="https://simpleicons.org/icons/php.svg" height="50" />|<img src="https://simpleicons.org/icons/html5.svg" height="50" />|<img src="https://simpleicons.org/icons/java.svg" height="50" />|<img src="https://simpleicons.org/icons/dotnet.svg" height="50" />|<img src="https://simpleicons.org/icons/cplusplus.svg" height="50" />|<img src="https://simpleicons.org/icons/arduino.svg" height="50" />|<img src="https://simpleicons.org/icons/processingfoundation.svg" height="50" />|
+| GW-BASIC | PHP | HTML | JAVASCRIPT | JAVA | .NET | C++ | ARDUINO | PROCESSING |
+|:--------:|:---:|:----:|:----------:|:----:|:----:|:---:|:-------:|:----------:|
+||<img src="https://simpleicons.org/icons/php.svg" height="50" />|<img src="https://simpleicons.org/icons/html5.svg" height="50" />|<img src="https://simpleicons.org/icons/javascript.svg" height="50"|<img src="https://simpleicons.org/icons/java.svg" height="50" />|<img src="https://simpleicons.org/icons/dotnet.svg" height="50" />|<img src="https://simpleicons.org/icons/cplusplus.svg" height="50" />|<img src="https://simpleicons.org/icons/arduino.svg" height="50" />|<img src="https://simpleicons.org/icons/processingfoundation.svg" height="50" />|
 
 Frameworks and libraries I use:
 | jQuery | ReactJS | Google Apps Script | Ruby on Rails | Bootstrap |
