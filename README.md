@@ -9,7 +9,7 @@ I enjoy 📷 photography, I enjoy activities such as ⛷️ skiing, and I enjoy 
 Languages I have learned:
 | GW-BASIC | PHP | HTML | JAVASCRIPT | JAVA | .NET | C++ | ARDUINO | PROCESSING |
 |:--------:|:---:|:----:|:----------:|:----:|:----:|:---:|:-------:|:----------:|
-||<img src="https://simpleicons.org/icons/php.svg" height="50" />|<img src="https://simpleicons.org/icons/html5.svg" height="50" />|<img src="https://simpleicons.org/icons/javascript.svg" height="50" />|<img src="https://simpleicons.org/icons/java.svg" height="50" />|<img src="https://simpleicons.org/icons/dotnet.svg" height="50" />|<img src="https://simpleicons.org/icons/cplusplus.svg" height="50" />|<img src="https://simpleicons.org/icons/arduino.svg" height="50" />|<img src="https://simpleicons.org/icons/processingfoundation.svg" height="50" />|
+||<img src="https://simpleicons.org/icons/php.svg" height="50" />|<img src="https://simpleicons.org/icons/html5.svg" height="50" />|<img src="https://simpleicons.org/icons/javascript.svg" height="50" />|<img src="https://simpleicons.org/icons/openjdk.svg" height="50" />|<img src="https://simpleicons.org/icons/dotnet.svg" height="50" />|<img src="https://simpleicons.org/icons/cplusplus.svg" height="50" />|<img src="https://simpleicons.org/icons/arduino.svg" height="50" />|<img src="https://simpleicons.org/icons/processingfoundation.svg" height="50" />|
 
 Frameworks and libraries I use:
 | jQuery | ReactJS | Google Apps Script | Ruby on Rails | Bootstrap |
@@ -27,7 +27,7 @@ A few of the websites I have created, mostly with WordPress:
 2) https://www.bibleget.io (BibleGet project)
 3) https://www.premiovittoriobachelet.eu (National Photography contest I organized one year in Italy)
 4) https://www.cappellaniauniroma3.org (Chaplaincy website at Roma Tre University)
-5) https://www.johnromanodorazio.com/LiturgicalCalendar (kudos to @mftruso for helping with the bootstrap theme!)
+5) https://www.litcal.johnromanodorazio.com (kudos to @mftruso for helping with the bootstrap theme!)
 6) https://geographyofthefaith.bibleget.io (Work in Progress)
 
 I run these websites and a few other services using:
@@ -50,7 +50,10 @@ Aims to facilitate inserting Bible quotes into documents or websites.
 #### 2) 🗓️ Liturgical Calendar Project ⛪
 An API with the data for the liturgical calendar, saint of the day, etc.
 
- - 🎯 API : [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
+ - 🎯 API : [Liturgical-Calendar/LiturgicalCalendarAPI](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI)
+ - 📺 Frontend: [Liturgical-Calendar/LiturgicalCalendarFrontend](https://github.com/Liturgical-Calendar/LiturgicalCalendarFrontend)
+ - 🎯 Anniversary Calculator API: [Liturgical-Calendar/LitCalAnniversaryCalculator](https://github.com/Liturgical-Calendar/LitCalAnniversaryCalculator)
+ - 🧮 Anniversary Calculator Frontend: [opera-romana-pellegrinaggi/litcal-anniversari-frontend](https://github.com/opera-romana-pellegrinaggi/litcal-anniversari-frontend)
 
 #### 3) 💍 Marriage Booklet Project 💒
 I have been participating lately in the [OpenSourceCatholic](https://github.com/opensourcecatholic) community.
