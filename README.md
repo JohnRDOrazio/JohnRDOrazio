@@ -18,7 +18,7 @@ Frameworks and libraries I use:
 
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JohnRDOrazio&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-I believe that programming can also be done in a 🤝 community spirit! I participate actively in the <a href="https://www.opensourcecatholic.com" title="www.opensourcecatholic.com">Open Source Catholic community</a> founded by [@geerlingguy](https://www.github.com/geerlingguy) (check out his projects!) and [Slack workspace](https://catholicdevs.slack.com) which I helped to launch.
+I believe that programming can also be done in a 🤝 community spirit! I participate actively in the <a href="https://www.opensourcecatholic.com" title="www.opensourcecatholic.com"><img src="https://www.opensourcecatholic.com/sites/opensourcecatholic.com/files/airyblue-logo.png" height="24" alt="OpenSourceCatholic" /> Open Source Catholic community</a> founded by <a href="https://www.github.com/geerlingguy"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="16" alt="Github" /> @geerlingguy</a> (check out his projects!) and <a href="https://catholicdevs.slack.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" height="16" alt="Slack" /> Slack workspace</a> which I helped to launch.
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/johnrdorazio)
 
